@@ -15,4 +15,10 @@
 
 ---
 
+
+
 ## Technologies
+
+<h4>Built using...</h4>
+
+MongoDB                                                     |                                                     Python                                                     |                                                     jQuery                                                     |                                                     HTML5                                                     |                                                     CSS3                                                     |                                                     Bootstrap                                                     |                                                     CSS3                                                     |                                                     AWS                                                     |
