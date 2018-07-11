@@ -15,10 +15,12 @@
 
 ---
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/edwrd-main.gif">
+</p>
 
 ## Technologies
 
 <h4>Built using...</h4>
 
-MongoDB                                                     |                                                     Python                                                     |                                                     jQuery                                                     |                                                     HTML5                                                     |                                                     CSS3                                                     |                                                     Bootstrap                                                     |                                                     CSS3                                                     |                                                     AWS                                                     |
+MongoDB                                                     |                                                     Neo4j                                                     |                                                     Python                                                     |                                                     HTML5                                                     |                                                     CSS3                                                     |                                                     jQuery                                                     |                                                     Bootstrap                                                     |                                                     AWS                                                     |
