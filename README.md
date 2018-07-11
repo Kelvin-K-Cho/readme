@@ -27,6 +27,8 @@ MongoDB                                                     |                   
 | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/icons/mongodb.png" height="30"> | <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/icons/neo4j.png" height="30"> | <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/icons/python.png" height="30"> | <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/icons/html5.png" height="30"> | <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/icons/css3.png" height="30"> | <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/icons/jquery.png" height="30"> | <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/icons/bootstrap.png" height="30"> | <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/icons/aws.png" height="30"> |
 
+---
+
 ## Features
 
 * [Vendor Portal](#vendor-portal)
@@ -39,3 +41,8 @@ MongoDB                                                     |                   
 </a>
 
 Upon successful connection to the application, a vendor can add their shop, list their merchandise, connect their payment gateway and update their notification preferences.
+
+<p align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/vendor-portal.gif">
+</p>
