@@ -34,6 +34,8 @@ MongoDB                                                     |                   
 * [Vendor Portal](#vendor-portal)
 * [Customer Portal](#customer-portal)
 
+---
+
 <a name="vendor-portal">
   <h4 align="center">
     <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/favicon.png" height="30"> Vendor Portal
@@ -46,3 +48,18 @@ Upon successful connection to the application, a vendor can add their shop, list
   <br />
   <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/vendor-portal.gif">
 </p>
+
+<a name="customer-portal">
+  <h4 align="center">
+    <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/favicon.png" height="30"> Customer Portal
+  </h4>
+</a>
+
+<p align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/customer-portal.gif">
+</p>
+
+## Future Implementation
+
+* Connecting the portals to the backend services on python.
