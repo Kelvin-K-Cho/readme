@@ -34,7 +34,7 @@ MongoDB                                                     |                   
 
 <a name="vendor-portal">
   <h4 align="center">
-    <img src="https://rawgithubusercontent.com/Kelvin-K-Cho/readme/master/images/favicon.png" height="30"> Vendor Portal
+    <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/favicon.png" height="30"> Vendor Portal
   </h4>
 </a>
 
