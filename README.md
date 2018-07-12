@@ -55,6 +55,8 @@ Upon successful connection to the application, a vendor can add their shop, list
   </h4>
 </a>
 
+In addition to allowing vendors to customize their settings, a customer who wants to plan an event can setup preferences ranging from profile settings to payment options.
+
 <p align="center">
   <br />
   <img src="https://raw.githubusercontent.com/Kelvin-K-Cho/readme/master/images/customer-portal.gif">
